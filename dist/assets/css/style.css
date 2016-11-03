@@ -1,1 +1,1 @@
-*{font-family:Helvetica, Arial, sans-serif;box-sizing:border-box}h1{font-size:300px;text-align:center;color:fuchsia}
+*{font-family:Helvetica, Arial, sans-serif;box-sizing:border-box}header{text-align:center}header h1{font-size:36px;text-align:center;color:orange}header input[type="text"]{font-size:18px;padding:5px 10px}
